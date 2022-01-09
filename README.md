@@ -1,4 +1,4 @@
-# Introduction to Machine Learning Course Homework
+# Statistical Learning Course
 This repository contains the codes used to solve the homework proposed in the Applied Computational Intelligence course at the Federal University of Ceará. The topics covered in each Homework were organized in the following manner:
 
 - **Homework 1**: Exploratory Data Analysis.
